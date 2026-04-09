@@ -19,7 +19,7 @@ I sit at the intersection of storytelling and analytics. I have a PhD in English
 
 | Project | What It Is |
 |---|---|
-| [Cloakwork] AI wardrobe app, no-code, hackathon build |
+| [Cloakwork]| AI wardrobe app, no-code, hackathon build |
 | [S.S. O'Brien Strategy] | AMA Hackathon runner-up, museum marketing strategy |
 | [Juicy Greens] | Full go-to-market strategy for a juice brand |
 | [Expedia Strategy]| Market expansion strategy for Expedia Group |
